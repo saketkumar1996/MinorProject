@@ -1,4 +1,4 @@
-# Attendance Management System
+# Cloud Based attendance System TEAM CSEEE
 Technologies used:  HTML5, CSS3, PHP and MySQL.
 
 
@@ -28,5 +28,8 @@ MySQL is used as database. Database design is made easy to understand.
 - teachers
 - students
 - attendance
+
+# Mentor Pranav Kumar
+
 
 # MinorProject
